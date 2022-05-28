@@ -1,6 +1,6 @@
 # HydrogenMinecraftECLauncher
 ## 前言
-HydrogenMinecraftECLauncher是一个由易语言写的启动模块~~,我叫他HCL~~
+HydrogenMinecraftECLauncher是一个由易语言写的启动模块,我叫他HCL
 
 写这个模块主要的原因是有个大聪明,把mc的启动参数直接复制到e语的”运行()”里,然后说他做了个启动器…
 
